@@ -38,13 +38,11 @@ $(document).ready(function(){
 
     $('#bar-2').jqbar({ label: 'CSS3', value: 90, barColor: '#E80C7A' });
 
-    $('#bar-3').jqbar({ label: 'Javascript', value: 40, barColor: '#15A12C' });
+    $('#bar-3').jqbar({ label: 'Javascript', value: 80, barColor: '#15A12C' });
 
-    $('#bar-4').jqbar({ label: 'jQuery', value: 50, barColor: '#000000' });
+    $('#bar-4').jqbar({ label: 'Php', value: 60, barColor: '#E807CD' });
 
-    $('#bar-5').jqbar({ label: 'PHP', value: 40, barColor: '#E807CD' });
-
-    $('#bar-6').jqbar({ label: 'MYSQL', value: 80, barColor: '#B2FF0D' });
+    $('#bar-5').jqbar({ label: 'photoshop', value: 60, barColor: '#B2FF0D' });
   
 });
 
